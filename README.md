@@ -10,8 +10,11 @@
 - AI加工后回复，用户追问
 - AI更加详细的解答
 
+## 进度
+- 目前提取了3438个问答对
+
 
 ## 本项目用于参加书生大模型训练营
 参考链接：[InternLM/Tutorial](https://github.com/InternLM/Tutorial)
 
-
+epub书籍下载： [夸克网盘_十万个为什么--第六版-彩色图文本 (韩启德主编 [韩启德主编]) (Z-Library)](https://pan.quark.cn/s/2a37336e170b)
