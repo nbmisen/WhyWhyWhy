@@ -11,4 +11,7 @@
 - AI更加详细的解答
 
 
+## 本项目用于参加书生大模型训练营
+参考链接：[InternLM/Tutorial](https://github.com/InternLM/Tutorial)
+
 
